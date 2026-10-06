@@ -1,0 +1,7 @@
+{
+  "name": "NutriVision - AI Food Calorie & Nutrient Predictor",
+  "description": "Vision and nutritional computation engine cross-referencing food imagery with the verified nutritional database matrix and mathematical portion scaling.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
